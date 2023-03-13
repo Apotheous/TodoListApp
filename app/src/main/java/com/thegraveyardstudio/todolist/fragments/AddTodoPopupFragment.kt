@@ -65,11 +65,11 @@ class AddTodoPopupFragment : DialogFragment() {
 
             val todoTask = binding.todoEt.text.toString()
             if (todoTask.isNotEmpty()){
-                if(todoTask == null){
-                    listener.onSaveTask(todoTask,binding.todoEt )
+                if(toDoData == null){
+                    listener?.onSaveTask(todoTask,binding.todoEt )
                 }else{
-                    toDoData?.task =todoTask
-                    listener.onUpdateTask(toDoData!!, binding.todoEt)
+                    toDoData!!.task =todoTask
+                    listener?.onUpdateTask(toDoData!!, binding.todoEt)
                 }
 
 
