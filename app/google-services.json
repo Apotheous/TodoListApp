@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "572674059744",
+    "project_id": "todolist-ef9bd",
+    "storage_bucket": "todolist-ef9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572674059744:android:fe639daf5b7f95ec7acf85",
+        "android_client_info": {
+          "package_name": "com.thegraveyardstudio.calculatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572674059744-nfgbbd4a3eru88ncno609j9fa7q75bs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5XXARhsvrlQMIsjiaHfzmk67MZp0Gwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572674059744-nfgbbd4a3eru88ncno609j9fa7q75bs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572674059744:android:998689b81abc7f317acf85",
+        "android_client_info": {
+          "package_name": "com.thegraveyardstudio.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572674059744-nfgbbd4a3eru88ncno609j9fa7q75bs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5XXARhsvrlQMIsjiaHfzmk67MZp0Gwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572674059744-nfgbbd4a3eru88ncno609j9fa7q75bs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
